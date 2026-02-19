@@ -99,10 +99,10 @@ Training & Testing Time
 
 Comparison Table:
 
-Model	Accuracy	Precision	Recall	F1-score	AUC	Training Time	Testing Time
-ResNet50	99.44%	99.37%	99.35%	99.36%	1.000	~42.5 min	17.22 sec
-VGG16	95.47%	95.01%	95.16%	94.85%	0.9992	~90 min	28.70 sec
-EfficientNetB0	99.60%	99.63%	99.53%	99.58%	1.000	~29 min	9.29 sec
+Model	          Accuracy	          Precision	            Recall	         F1-score	          AUC    	Training Time     	Testing Time
+ResNet50	      99.44%	            99.37%	              99.35%	         99.36%	           1.000    	~42.5 min	        17.22 sec
+VGG16	          95.47%            	95.01%	              95.16%	         94.85%	           0.9992	    ~90 min	          28.70 sec
+EfficientNetB0	99.60%	            99.63%              	99.53%	         99.58%           1.000      	~29 min	          9.29 sec
 
 Observations:
 
@@ -127,4 +127,6 @@ Matplotlib, Seaborn – Visualization
 
 PIL (Python Imaging Library) – Image processing
 
-Torch, Torchvision – Deep learning and data augmentation                                                                  @Md. Rejaul Hoq
+Torch, Torchvision – Deep learning and data augmentation                                                                                
+
+@Md. Rejaul Hoq
