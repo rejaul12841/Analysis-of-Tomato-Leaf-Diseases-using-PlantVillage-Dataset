@@ -1,4 +1,5 @@
 Tomato Leaf Disease Classification
+
 📊 Dataset Description
 
 The PlantVillage dataset consists of leaf images from multiple crop species, including Tomato, Potato, and Pepper. For this project, only Tomato leaf classes were considered.
